@@ -7,7 +7,7 @@ Calmify is a modern mental health assistant leveraging the power of Flask, React
 ## 🛠️ Features
 
 - **Emotion Detection**: Analyzes user text to understand emotions using the `j-hartmann/emotion-english-distilroberta-base` model. 😊😢😠
-- **Conversational AI**: GPT-4 integration for intelligent and empathetic responses. 🧠
+
 - **User-Friendly Interface**: A seamless front-end powered by React. 💻
 - **Scalable Backend**: Flask API for efficient communication between the front-end and AI models. ⚙️
 - **Personalized Suggestions**: Provides tips and resources for emotional well-being. 🌱
@@ -25,9 +25,7 @@ Calmify is a modern mental health assistant leveraging the power of Flask, React
 - Flask 🐍
 - Python 🐍
 
-### AI/ML:
-- Hugging Face 🤗
-- GPT-4 (OpenAI) 🧠
+
 
 ---
 
